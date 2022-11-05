@@ -1,4 +1,7 @@
 devkit
 Elfquest
 elven
+Freizeitheim
 subdir
+Wartenberg
+Witten
