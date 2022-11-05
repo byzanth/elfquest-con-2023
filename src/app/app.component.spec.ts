@@ -1,8 +1,18 @@
 import { TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
+import { TranslatePipe, TranslateService } from '@ngx-translate/core';
 import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
+
+  class TranslateServiceMock {
+    public addLangs = () => { return true; };
+    public setDefaultLang = () => { return true; };
+    public use = () => { return true; };
+  }
+
+  class TranslatePipeMock {}
+
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [
@@ -11,6 +21,10 @@ describe('AppComponent', () => {
       declarations: [
         AppComponent
       ],
+      providers: [
+        { provide: TranslateService, useClass: TranslateServiceMock },
+        { provide: TranslatePipe, useClass: TranslatePipeMock }
+      ]
     }).compileComponents();
   });
 
@@ -20,10 +34,5 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'elfquest-con-2023'`, () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
-    expect(app.title).toEqual('elfquest-con-2023');
-  });
 
 });
