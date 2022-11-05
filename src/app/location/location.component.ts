@@ -10,6 +10,7 @@ export class LocationComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    console.log("init homepage");
   }
 
 }
