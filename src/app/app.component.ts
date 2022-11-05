@@ -8,10 +8,16 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class AppComponent {
   title = 'elfquest-con-2023';
+  private translate: TranslateService;
 
   constructor(translate: TranslateService) {
-    translate.addLangs(['en', 'de']);
-    translate.setDefaultLang('en');
-    translate.use('en');
+    this.translate = translate;
+    this.translate.addLangs(['en', 'de']);
+    this.translate.setDefaultLang('en');
+    this.translate.use('en');
   }
+
+  useLanguage(language: string) {
+    this.translate.use(language);
+}
 }
