@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="220"
+   height="220"
+   viewBox="0 0 58.208327 58.208327"
+   version="1.1"
+   id="svg2848"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Sendestern.svg"
+   inkscape:export-filename="Sendestern_transpfill.png"
+   inkscape:export-xdpi="176.33084"
+   inkscape:export-ydpi="176.33084"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2850"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.1027181"
+     inkscape:cx="171.78486"
+     inkscape:cy="126.01854"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2845" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3434"
+       style="overflow:visible;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#fa270c;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="M 20.713809,36.847464 C 15.824961,31.593291 1.0117748,29.350718 1.0582736,28.059722 1.1047711,26.768726 16.040908,25.597645 21.295081,20.708797 26.549254,15.819948 28.791827,1.0067605 30.082823,1.0532588 c 1.290995,0.046498 2.462076,14.9826372 7.350924,20.2368102 4.888849,5.254173 19.702037,7.496746 19.65554,8.787742 -0.0465,1.290997 -14.982638,2.462076 -20.236812,7.350924 -5.254173,4.888848 -7.496745,19.702036 -8.787741,19.655538 -1.290996,-0.0465 -2.462077,-14.982637 -7.350925,-20.236809 z"
+       sodipodi:nodetypes="asasasasa" />
+  </g>
+</svg>
