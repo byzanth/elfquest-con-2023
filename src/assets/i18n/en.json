@@ -1,5 +1,5 @@
 {
-  "homepage": {
+  "start": {
     "header": "Welcome to the 24. European ElfQuest Convention",
     "subheader": "from 26th - 29th of May, 2023 (Pentecost) in the youth hostel Wartenberg near Witten, Germany",
     "entry": "Also for 2023 a call resounds through forests, deserts, over steppes and snowy plains",
@@ -58,7 +58,7 @@
     },
     "surroundings": {
       "header": "Surroundings",
-      "text": "For the ever-growing crowd of children, the recreation center offers outdoor facilities and a large bouncy cushion. In addition, the outdoor area offers a covered fireplace, for cozy evenings and a surrounding forest planted especially for Larper :P."
+      "text": "For the ever-growing crowd of children, the recreation center offers outdoor facilities and a large bouncy cushion. In addition, the outdoor area offers a covered fireplace, for cozy evenings and a surrounding forest planted especially for Larpers :P."
     }
   }
 }

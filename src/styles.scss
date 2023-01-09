@@ -1,10 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 :root {
-  --navBackgroundColor: #ffe292;
+  --navBackgroundColor: #fed466;
+  --backgroundColor1: #9ab3d7;
+  --backgroundColor2: #a589ba;
 }
 
 body {
-  font-size: 150%;
+  font-size: 120%;
   font-family: sans-serif;
   margin: 0;
   padding: 0;
@@ -14,19 +16,37 @@ p, div {
     text-align: justify;
 }
 
-nav {
-  padding: 10px;
-  background-color: var(--navBackgroundColor);
-}
-
 h1 {
   padding-top: 0;
   margin-top: 0;
+  background-color: var(--backgroundColor1);
 }
 h1, h2 {
     text-align: left;
 }
 
 .page {
+  display: block;
+  overflow: hidden;
+  margin: auto;
+  max-width: 1160px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px solid var(--navBackgroundColor);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.page>h1 {
   padding: 20px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.content-container {
+  display: block;
+  width: 100%;
+  background-image: linear-gradient(to right, var(--backgroundColor1), var(--backgroundColor2));
 }

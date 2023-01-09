@@ -1,0 +1,21 @@
+.language-changer {
+  padding: 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+:host {
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+nav {
+  background-color: var(--navBackgroundColor);
+  height: 50px;
+  line-height: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}

@@ -9,6 +9,9 @@ import { AppComponent } from './app.component';
 import { HomepageComponent } from './homepage/homepage.component';
 import { LocationComponent } from './location/location.component';
 import { FaqComponent } from './faq/faq.component';
+import { StartComponent } from './start/start.component';
+import { CreditsComponent } from './credits/credits.component';
+import { NavigationComponent } from './navigation/navigation.component';
 
 // AoT requires an exported function for factories
 export function HttpLoaderFactory(http: HttpClient) {
@@ -20,15 +23,16 @@ export function HttpLoaderFactory(http: HttpClient) {
     AppComponent,
     HomepageComponent,
     LocationComponent,
-    FaqComponent
+    FaqComponent,
+    StartComponent,
+    CreditsComponent,
+    NavigationComponent
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
     RouterModule.forRoot([
-      {path: '', component: HomepageComponent},
-      {path: 'faq', component: FaqComponent},
-      {path: 'location', component: LocationComponent},
+      {path: '', component: HomepageComponent}
     ]),
     TranslateModule.forRoot({
       loader: {

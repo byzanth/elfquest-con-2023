@@ -1,0 +1,6 @@
+<nav><a href="#start">start</a> | <a href="#location">location</a> | <a href="#faq">faq</a></nav>
+
+<div class="language-changer">
+  <button [disabled]="languageInUse === 'en'" (click)="useLanguage('en')">en</button>
+  <button [disabled]="languageInUse === 'de'" (click)="useLanguage('de')">de</button>
+</div>
