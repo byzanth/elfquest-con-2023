@@ -32,9 +32,8 @@ h1, h2 {
   max-width: 1160px;
   padding-left: 20px;
   padding-right: 20px;
-  border: 1px solid var(--navBackgroundColor);
-  margin-top: 10px;
-  margin-bottom: 10px;
+  border: 3px solid var(--navBackgroundColor);
+  margin-top: 30px;
   background-color: white;
   border-radius: 20px;
 }
@@ -49,4 +48,5 @@ h1, h2 {
   display: block;
   width: 100%;
   background-image: linear-gradient(to right, var(--backgroundColor1), var(--backgroundColor2));
+  margin-bottom: 30px;
 }
