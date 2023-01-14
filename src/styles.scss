@@ -3,6 +3,10 @@
   --navBackgroundColor: #fed466;
   --backgroundColor1: #9ab3d7;
   --backgroundColor2: #a589ba;
+  --pageBackgroundColor: white;
+  --pageBorderWidth: 3px;
+  --desktopWidth: 1200px;
+  --pagePadding: 20px;
 }
 
 body {
@@ -13,7 +17,7 @@ body {
 }
 
 p, div {
-    text-align: justify;
+  text-align: justify;
 }
 
 h1 {
@@ -22,23 +26,20 @@ h1 {
   background-color: var(--backgroundColor1);
 }
 h1, h2 {
-    text-align: left;
+  text-align: left;
 }
 
 .page {
   display: block;
   overflow: hidden;
   margin: auto;
-  max-width: 1160px;
-  padding-left: 20px;
-  padding-right: 20px;
-  border: 3px solid var(--navBackgroundColor);
-  margin-top: 30px;
-  background-color: white;
-  border-radius: 20px;
+  padding-left: var(--pagePadding);
+  padding-right: var(--pagePadding);
+  border: var(--pageBorderWidth) solid var(--navBackgroundColor);
+  background-color: var(--pageBackgroundColor);
 }
 
-.page>h1 {
+.page > h1 {
   padding: 20px;
   margin-left: -20px;
   margin-right: -20px;
@@ -47,6 +48,17 @@ h1, h2 {
 .content-container {
   display: block;
   width: 100%;
-  background-image: linear-gradient(to right, var(--backgroundColor1), var(--backgroundColor2));
-  margin-bottom: 30px;
+  background-image: linear-gradient(to bottom right, var(--backgroundColor1), var(--backgroundColor2));
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 1200px) {
+  .page {
+    border-radius: var(--pagePadding);
+    margin-top: 30px;
+    max-width: calc(var(--desktopWidth) - 40px);
+  }
+  .content-container {
+    padding-bottom: 30px;
+  }
 }

@@ -1,5 +1,22 @@
 {
+  "credits": {
+    "header": "Impressum",
+    "address1": "Verein Zwei Monde",
+    "address2": "z. Hd. Nils Kreutzer",
+    "address3": "Nordstrasse 44",
+    "address4": "53111 Bonn",
+    "header2": "Rechtliches",
+    "entry1": "Soweit nicht anders angegeben sind sämtliche auf dieser Seite gezeigten Werke rechtlich geschützt. Weitergabe nur nach Absprache mit dem jeweiligen Urheber gestattet.",
+    "entry2": "Elfquest Kunst ist urheberrechtlich geschützt von Warp Graphics, Inc. Elfquest, seine Logos, Charaktere, Situationen, alle damit zusammenhängenden Indizien und ihre unverwechselbaren Ähnlichkeiten sind Warenzeichen von Warp Graphics, Inc. Alle Rechte vorbehalten."
+  },
+  "links": {
+    "header": "Links",
+    "registration": "Anmeldung",
+    "forum": "Forum",
+    "scrollOfColors": "Die Rolle der Farben (Archiv der vergangenen Cons)"
+  },
   "start": {
+    "nav": "Start",
     "header": "Willkommen zur 24. europäischen ElfQuest-Convention",
     "subheader": "vom 26. - 29. Mai 2023 (Pfingsten) im Freizeitheim Wartenberg, Witten",
     "entry": "Auch für das Jahr 2023 erschallt ein Ruf durch Wald, Wüste, über Steppen und Schneefelder",

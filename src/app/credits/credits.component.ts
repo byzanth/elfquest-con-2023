@@ -5,12 +5,8 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './credits.component.html',
   styleUrls: ['./credits.component.scss']
 })
-export class CreditsComponent implements OnInit {
+export class CreditsComponent {
 
   constructor() { }
-
-  ngOnInit(): void {
-    console.log("init credits");
-  }
 
 }

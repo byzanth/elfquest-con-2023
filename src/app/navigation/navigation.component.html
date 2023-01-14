@@ -1,4 +1,4 @@
-<nav><a href="#start">start</a> | <a href="#location">location</a> | <a href="#faq">faq</a></nav>
+<nav><a href="#start">{{ 'start.nav' | translate }}</a> | <a href="#links">{{ 'links.header' | translate }}</a> | <a href="#location">{{ 'location.header' | translate }}</a> | <a href="#faq">{{ 'faq.header' | translate }}</a> | <a href="#credits">{{ 'credits.header' | translate }}</a></nav>
 
 <div class="language-changer">
   <button [disabled]="languageInUse === 'en'" (click)="useLanguage('en')">en</button>

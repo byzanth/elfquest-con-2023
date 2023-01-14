@@ -12,6 +12,7 @@ import { FaqComponent } from './faq/faq.component';
 import { StartComponent } from './start/start.component';
 import { CreditsComponent } from './credits/credits.component';
 import { NavigationComponent } from './navigation/navigation.component';
+import { LinksComponent } from './links/links.component';
 
 // AoT requires an exported function for factories
 export function HttpLoaderFactory(http: HttpClient) {
@@ -26,7 +27,8 @@ export function HttpLoaderFactory(http: HttpClient) {
     FaqComponent,
     StartComponent,
     CreditsComponent,
-    NavigationComponent
+    NavigationComponent,
+    LinksComponent
   ],
   imports: [
     BrowserModule,

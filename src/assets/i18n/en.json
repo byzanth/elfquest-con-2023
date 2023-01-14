@@ -1,5 +1,22 @@
 {
+  "credits": {
+    "header": "Credits",
+    "address1": "Two Moons Society",
+    "address2": "C/O Nils Kreutzer",
+    "address3": "Nordstrasse 44",
+    "address4": "53111 Bonn",
+    "header2": "Legal",
+    "entry1": "Unless otherwise stated, all works shown on this page are legally protected. Reproduction is permitted only after consultation with the respective author.",
+    "entry2": "Elfquest art copyright Warp Graphics, Inc. Elfquest, its logos, characters, situations, all related indicia, and their distinctive likenesses are trademarks of Warp Graphics, Inc. All rights reserved."
+  },
+  "links": {
+    "header": "Links",
+    "registration": "Registration",
+    "forum": "Forum",
+    "scrollOfColors": "The Scroll of colors (archive of past cons - german only)"
+  },
   "start": {
+    "nav": "Start",
     "header": "Welcome to the 24. European ElfQuest Convention",
     "subheader": "from 26th - 29th of May, 2023 (Pentecost) in the youth hostel Wartenberg near Witten, Germany",
     "entry": "Also for 2023 a call resounds through forests, deserts, over steppes and snowy plains",
@@ -8,7 +25,7 @@
     "greeting": "Enjoy the page for the ElfQuest Con 2023; Yours, the organization team"
   },
   "faq": {
-    "header": "frequently asked questions",
+    "header": "FAQ",
     "when": {
       "header": "When will the con take place?",
       "text": "From 26 - 29 May 2023 (Pentecost)"

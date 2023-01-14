@@ -1,14 +1,14 @@
-.language-changer {
-  padding: 10px;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
 :host {
   height: 50px;
   width: 100%;
   position: fixed;
+  top: 0;
+}
+
+.language-changer {
+  padding: 10px;
+  position: absolute;
+  right: 0;
   top: 0;
 }
 
