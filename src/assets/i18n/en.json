@@ -13,7 +13,7 @@
     "header": "Links",
     "registration": "Registration",
     "forum": "Forum",
-    "wartenberg": "Freizeitheim Wartenberg",
+    "wartenberg": "Youth hostel Wartenberg",
     "scrollOfColors": "The Scroll of colors (archive of past cons - german only)"
   },
   "start": {
@@ -33,7 +33,7 @@
     },
     "where": {
       "header": "Where will the con take place?",
-      "text": "In the Freizeitheim Wartenberg near Witten in NRW. The Cons 2012, 2014 and 2016, 2018 and 2021 have also taken place there."
+      "text": "In the youth hostel in Wartenberg near Witten in North Rhine-Westphalia. The Cons 2012, 2014 and 2016, 2018 and 2021 have also taken place there."
     },
     "costs": {
       "header": "How much does the con cost?",
@@ -60,16 +60,16 @@
     },
     "workshops": {
       "header": "Will there be workshops and the usual promotions?",
-      "text": "Yes, as long as people can be found who (co-)organize or lead the event. In the forum you can find the current state of planning. ( http://vaterbaum.elfquest-con.de/index.php ) Then go to the appropriate subforum."
+      "text": "Yes, as long as people can be found who (co-)organize or lead the event. In the forum you can find the current state of planning. Then go to the appropriate subforum."
     },
     "pets": {
       "header": "What about pets? Can I bring them with me?",
-      "text": "This is best clarified with the organizers. Up to now, it was the case that animals were allowed on the (outdoor) grounds, but not on the premises."
+      "text": "This is best clarified with the organizers. Up to now, it was the case that animals were allowed on the outdoor grounds, but not on the premises."
     }
   },
   "location": {
     "header": "Location",
-    "entry": "What is there to say to Freizeitheim Wartenberg? In 2012, 2014, 2016, 2018 and 2021 up to 60 elves were accommodated there undisturbed, since the house was used by us exclusively.",
+    "entry": "What is there to say to the youth hostel in Wartenberg? In 2012, 2014, 2016, 2018 and 2021 up to 60 elves were accommodated there undisturbed, since the house was used by us exclusively.",
     "catering": {
       "header": "Catering",
       "text": "The full catering takes place in the large dining room, or if there is a barbecue, in the outdoor seating area. The experience of the last Cons has shown that also vegetarians, vegans and allergy sufferers are satisfied with the food. The main house has two large lounges, which offer space for workshops as well as game rounds. If the weather is as good as in the last years, we will spend most of our time outside anyway ;-)"
