@@ -72,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "elfquest-con-2023:build:production"
+              "buildTarget": "elfquest-con-2023:build:production"
             },
             "development": {
-              "browserTarget": "elfquest-con-2023:build:development"
+              "buildTarget": "elfquest-con-2023:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -83,7 +83,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "elfquest-con-2023:build"
+            "buildTarget": "elfquest-con-2023:build"
           }
         },
         "test": {
