@@ -1,32 +1,43 @@
 {
   "credits": {
-    "header": "Credits",
     "address1": "Two Moons Society",
     "address2": "C/O Nils Kreutzer",
     "address3": "Nordstrasse 44",
     "address4": "53111 Bonn",
-    "header2": "Legal",
     "entry1": "Unless otherwise stated, all works shown on this page are legally protected. Reproduction is permitted only after consultation with the respective author.",
-    "entry2": "Elfquest art copyright Warp Graphics, Inc. Elfquest, its logos, characters, situations, all related indicia, and their distinctive likenesses are trademarks of Warp Graphics, Inc. All rights reserved."
-  },
-  "links": {
-    "header": "Links",
-    "registration": "Registration",
-    "forum": "Forum",
-    "wartenberg": "Youth hostel Wartenberg",
-    "scrollOfColors": "The Scroll of colors (archive of past cons - german only)"
-  },
-  "start": {
-    "nav": "Start",
-    "header": "Welcome to the 24. European ElfQuest Convention",
-    "subheader": "from 26th - 29th of May, 2023 (Pentecost) in the youth hostel Wartenberg near Witten, Germany",
-    "entry": "Also for 2023 a call resounds through forests, deserts, over steppes and snowy plains",
-    "slogan": "One tribe ★ one holt.",
-    "welcome": "According to this slogan you all are invited to come to the elven holt, to laugh, to dance and sing, to play games, to clown around, to vie playfully, to be creative and paint or write poetry or stories. As one tribe, new and old, everyone is welcome.",
-    "greeting": "Enjoy the page for the ElfQuest Con 2023; Yours, the organization team"
+    "entry2": "Elfquest art copyright Warp Graphics, Inc. Elfquest, its logos, characters, situations, all related indicia, and their distinctive likenesses are trademarks of Warp Graphics, Inc. All rights reserved.",
+    "header": "Credits",
+    "header2": "Legal"
   },
   "faq": {
+    "bedclothes": {
+      "header": "Do I have to bring my own bed clothes?",
+      "text": "Yes, you have to bring. Sleeping bags are not allowed. If someone can't bring one, please let us know in time so that something can be arranged."
+    },
+    "costs": {
+      "adults": "Adults",
+      "header": "How much does the con cost?",
+      "kids": "Participants up to 6 years",
+      "teens": "Participants up to 13 years",
+      "youngAdults": "Participants up to 20 years"
+    },
+    "daytimeGuest": {
+      "header": "Is it possible to come as a day guest?",
+      "text": "Yes, day guests are welcome. Please contact the organizers with the information on which days and at which meals you will be present. The price will be calculated for you accordingly."
+    },
     "header": "FAQ",
+    "organizer": {
+      "header": "Who is the organizing the event?",
+      "text": "For 2023, several elves / trolls / preservers have agreed to be involved in various organization tasks."
+    },
+    "pets": {
+      "header": "What about pets? Can I bring them with me?",
+      "text": "This is best clarified with the organizers. Up to now, it was the case that animals were allowed on the outdoor grounds, but not on the premises."
+    },
+    "registration": {
+      "header": "Where can I find the registration? How does the registration process work?",
+      "text": "You can find the registration form on the website. Please read the conditions of participation, fill in the form and send it to the address mentioned there (by post or electronically). If the registration has been received and everything fits, you will receive the account data for the bank transfer. If you have done this correctly, you are registered correctly. (The status is usually updated in the forum from time to time)."
+    },
     "when": {
       "header": "When will the con take place?",
       "text": "From 26 - 29 May 2023 (Pentecost)"
@@ -35,48 +46,37 @@
       "header": "Where will the con take place?",
       "text": "In the youth hostel in Wartenberg near Witten in North Rhine-Westphalia. The Cons 2012, 2014 and 2016, 2018 and 2021 have also taken place there."
     },
-    "costs": {
-      "header": "How much does the con cost?",
-      "adults": "Adults",
-      "youngAdults": "Participants up to 20 years",
-      "teens": "Participants up to 13 years",
-      "kids": "Participants up to 6 years"
-    },
-    "registration": {
-      "header": "Where can I find the registration? How does the registration process work?",
-      "text": "You can find the registration form on the website. Please read the conditions of participation, fill in the form and send it to the address mentioned there (by post or electronically). If the registration has been received and everything fits, you will receive the account data for the bank transfer. If you have done this correctly, you are registered correctly. (The status is usually updated in the forum from time to time)."
-    },
-    "daytimeGuest": {
-      "header": "Is it possible to come as a day guest?",
-      "text": "Yes, day guests are welcome. Please contact the organizers with the information on which days and at which meals you will be present. The price will be calculated for you accordingly."
-    },
-    "organizer": {
-      "header": "Who is the organizing the event?",
-      "text": "For 2023, several elves / trolls / preservers have agreed to be involved in various organization tasks."
-    },
-    "bedclothes": {
-      "header": "Do I have to bring my own bed clothes?",
-      "text": "Yes, you have to bring. Sleeping bags are not allowed. If someone can't bring one, please let us know in time so that something can be arranged."
-    },
     "workshops": {
       "header": "Will there be workshops and the usual promotions?",
       "text": "Yes, as long as people can be found who (co-)organize or lead the event. In the forum you can find the current state of planning. Then go to the appropriate subforum."
-    },
-    "pets": {
-      "header": "What about pets? Can I bring them with me?",
-      "text": "This is best clarified with the organizers. Up to now, it was the case that animals were allowed on the outdoor grounds, but not on the premises."
     }
   },
+  "links": {
+    "forum": "Forum",
+    "header": "Links",
+    "registration": "Registration",
+    "scrollOfColors": "The Scroll of colors (archive of past cons - german only)",
+    "wartenberg": "Youth hostel Wartenberg"
+  },
   "location": {
-    "header": "Location",
-    "entry": "What is there to say to the youth hostel in Wartenberg? In 2012, 2014, 2016, 2018 and 2021 up to 60 elves were accommodated there undisturbed, since the house was used by us exclusively.",
     "catering": {
       "header": "Catering",
       "text": "The full catering takes place in the large dining room, or if there is a barbecue, in the outdoor seating area. The experience of the last Cons has shown that also vegetarians, vegans and allergy sufferers are satisfied with the food. The main house has two large lounges, which offer space for workshops as well as game rounds. If the weather is as good as in the last years, we will spend most of our time outside anyway ;-)"
     },
+    "entry": "What is there to say to the youth hostel in Wartenberg? In 2012, 2014, 2016, 2018 and 2021 up to 60 elves were accommodated there undisturbed, since the house was used by us exclusively.",
+    "header": "Location",
     "surroundings": {
       "header": "Surroundings",
       "text": "For the ever-growing crowd of children, the recreation center offers outdoor facilities and a large bouncy cushion. In addition, the outdoor area offers a covered fireplace, for cozy evenings and a surrounding forest planted especially for Larpers :P."
     }
+  },
+  "start": {
+    "entry": "Also for 2023 a call resounds through forests, deserts, over steppes and snowy plains",
+    "greeting": "Enjoy the page for the ElfQuest Con 2023; Yours, the organization team",
+    "header": "Welcome to the 24. European ElfQuest Convention",
+    "nav": "Start",
+    "slogan": "One tribe ★ one holt.",
+    "subheader": "from 26th - 29th of May, 2023 (Pentecost) in the youth hostel Wartenberg near Witten, Germany",
+    "welcome": "According to this slogan you all are invited to come to the elven holt, to laugh, to dance and sing, to play games, to clown around, to vie playfully, to be creative and paint or write poetry or stories. As one tribe, new and old, everyone is welcome."
   }
 }

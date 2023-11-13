@@ -1,32 +1,43 @@
 {
   "credits": {
-    "header": "Impressum",
     "address1": "Verein Zwei Monde",
     "address2": "z. Hd. Nils Kreutzer",
     "address3": "Nordstrasse 44",
     "address4": "53111 Bonn",
-    "header2": "Rechtliches",
     "entry1": "Soweit nicht anders angegeben sind sämtliche auf dieser Seite gezeigten Werke rechtlich geschützt. Weitergabe nur nach Absprache mit dem jeweiligen Urheber gestattet.",
-    "entry2": "Elfquest Kunst ist urheberrechtlich geschützt von Warp Graphics, Inc. Elfquest, seine Logos, Charaktere, Situationen, alle damit zusammenhängenden Indizien und ihre unverwechselbaren Ähnlichkeiten sind Warenzeichen von Warp Graphics, Inc. Alle Rechte vorbehalten."
-  },
-  "links": {
-    "header": "Links",
-    "registration": "Anmeldung",
-    "forum": "Forum",
-    "wartenberg": "Freizeitheim Wartenberg",
-    "scrollOfColors": "Die Rolle der Farben (Archiv der vergangenen Cons)"
-  },
-  "start": {
-    "nav": "Start",
-    "header": "Willkommen zur 24. europäischen ElfQuest-Convention",
-    "subheader": "vom 26. - 29. Mai 2023 (Pfingsten) im Freizeitheim Wartenberg, Witten",
-    "entry": "Auch für das Jahr 2023 erschallt ein Ruf durch Wald, Wüste, über Steppen und Schneefelder",
-    "slogan": "One tribe ★ one holt.",
-    "welcome": "Entsprechend diesem Motto seid Ihr alle eingeladen in den Elfenhain zu kommen, zu lachen, zu tanzen und zu singen, Spiele zu spielen, herumzualbern, wettzueifern oder kreativ zu malen und schreiben. Als ein Stamm, neu und alt, alle sind willkommen.",
-    "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2023 wünscht eure Orga"
+    "entry2": "Elfquest Kunst ist urheberrechtlich geschützt von Warp Graphics, Inc. Elfquest, seine Logos, Charaktere, Situationen, alle damit zusammenhängenden Indizien und ihre unverwechselbaren Ähnlichkeiten sind Warenzeichen von Warp Graphics, Inc. Alle Rechte vorbehalten.",
+    "header": "Impressum",
+    "header2": "Rechtliches"
   },
   "faq": {
+    "bedclothes": {
+      "header": "Muß man Bettzeug selber mitbringen?",
+      "text": "Ja, muss man mitbringen. Schlafsäcke sind nicht erlaubt. Wenn jemand keine mitbringen kann, bitte rechtzeitig Bescheid geben, damit man was arrangieren kann."
+    },
+    "costs": {
+      "adults": "Erwachsene",
+      "header": "Wieviel kostet die Con?",
+      "kids": "Teilnehmer bis 6 Jahre",
+      "teens": "Teilnehmer bis 13 Jahre",
+      "youngAdults": "Teilnehmer bis 20 Jahre"
+    },
+    "daytimeGuest": {
+      "header": "Kann man auch als Tagesgast kommen?",
+      "text": "Ja, Tagesgäste sind willkommen. Bitte kontaktiert die Orga mit der Angabe an welchen Tagen und bei welchen Mahlzeiten ihr dabei sein werdet. Der Preis wird dann entsprechend für euch kalkuliert."
+    },
     "header": "FAQ",
+    "organizer": {
+      "header": "Wer ist die Orga?",
+      "text": "Für 2023 haben sich mehrere Elfen / Trolle / Bewahrer bereitgefunden sich in verschiedene Orga-Aufgaben hineinzuteilen."
+    },
+    "pets": {
+      "header": "Wie ist das mit Haustieren? Darf ich die mitbringen?",
+      "text": "Das klärt man am besten mit der Orga. Bislang war es so, daß Tiere auf dem (Außen-)Gelände zwar erlaubt sind, nicht jedoch in den Räumlichkeiten."
+    },
+    "registration": {
+      "header": "Wo finde ich die Anmeldung? Wie läuft der Anmeldeprozeß ab?",
+      "text": "Die Anmeldung findet Ihr als Formular auf der Website. Die Teilnahmebedingungen sind zu lesen, das Formular auszufüllen und an die dort benannte Adresse zu senden (postalisch oder elektronisch). Wenn die Anmeldung eingegangen ist und alles paßt, erhält man die Kontodaten für die Überweisung. Hat man diese korrekt getätigt, ist man korrekt angemeldet. (Der Stand dazu wird üblicherweise im Forum ab und zu aktualisiert.)"
+    },
     "when": {
       "header": "Wann findet die Con statt?",
       "text": "Vom 26. - 29. Mai 2023 (Pfingsten)"
@@ -35,48 +46,37 @@
       "header": "Wo findet die Con statt?",
       "text": "Im Freizeitheim Wartenberg bei Witten in Nordrhein-Westfalen. Dort haben auch schon die Cons 2012, 2014 und 2016, 2018 und 2021 stattgefunden."
     },
-    "costs": {
-      "header": "Wieviel kostet die Con?",
-      "adults": "Erwachsene",
-      "youngAdults": "Teilnehmer bis 20 Jahre",
-      "teens": "Teilnehmer bis 13 Jahre",
-      "kids": "Teilnehmer bis 6 Jahre"
-    },
-    "registration": {
-      "header": "Wo finde ich die Anmeldung? Wie läuft der Anmeldeprozeß ab?",
-      "text": "Die Anmeldung findet Ihr als Formular auf der Website. Die Teilnahmebedingungen sind zu lesen, das Formular auszufüllen und an die dort benannte Adresse zu senden (postalisch oder elektronisch). Wenn die Anmeldung eingegangen ist und alles paßt, erhält man die Kontodaten für die Überweisung. Hat man diese korrekt getätigt, ist man korrekt angemeldet. (Der Stand dazu wird üblicherweise im Forum ab und zu aktualisiert.)"
-    },
-    "daytimeGuest": {
-      "header": "Kann man auch als Tagesgast kommen?",
-      "text": "Ja, Tagesgäste sind willkommen. Bitte kontaktiert die Orga mit der Angabe an welchen Tagen und bei welchen Mahlzeiten ihr dabei sein werdet. Der Preis wird dann entsprechend für euch kalkuliert."
-    },
-    "organizer": {
-      "header": "Wer ist die Orga?",
-      "text": "Für 2023 haben sich mehrere Elfen / Trolle / Bewahrer bereitgefunden sich in verschiedene Orga-Aufgaben hineinzuteilen."
-    },
-    "bedclothes": {
-      "header": "Muß man Bettzeug selber mitbringen?",
-      "text": "Ja, muss man mitbringen. Schlafsäcke sind nicht erlaubt. Wenn jemand keine mitbringen kann, bitte rechtzeitig Bescheid geben, damit man was arrangieren kann."
-    },
     "workshops": {
       "header": "Wird es Workshops und die üblichen Aktionen geben?",
       "text": "Ja, sofern sich Leute finden, die dort (mit-)organisieren bzw. das leiten. Im Forum findet man den aktuellen Stand der Planung. Dort dann zu passenden Unterforum wechseln."
-    },
-    "pets": {
-      "header": "Wie ist das mit Haustieren? Darf ich die mitbringen?",
-      "text": "Das klärt man am besten mit der Orga. Bislang war es so, daß Tiere auf dem (Außen-)Gelände zwar erlaubt sind, nicht jedoch in den Räumlichkeiten."
     }
   },
+  "links": {
+    "forum": "Forum",
+    "header": "Links",
+    "registration": "Anmeldung",
+    "scrollOfColors": "Die Rolle der Farben (Archiv der vergangenen Cons)",
+    "wartenberg": "Freizeitheim Wartenberg"
+  },
   "location": {
-    "header": "Unterkunft",
-    "entry": "Was soll man zum Freizeitheim Wartenberg noch sagen? 2012, 2014, 2016, 2018 und 2021 haben dort schon bis zu 60 Elfen Platz gefunden und waren dabei ungestört, da das Freizeitheim von uns allein genutzt wird – es ist also exklusiv gebucht.",
     "catering": {
       "header": "Verpflegung",
       "text": "Die Vollverpflegung erfolgt im großen Essensraum, oder wenn gegrillt wird, im bestuhlten Außenbereich. Die Erfahrung der letzten Cons hat gezeigt, daß essenstechnisch auch Vegetarier, Veganer und Allergiker satt geworden sind. Das Haupthaus verfügt über zwei große Aufenthaltsräume, die Platz für Workshops sowie Spielrunden bieten. Wenn das Wetter so gut ist, wie in den letzten Jahren, werden wir aber sowieso die meiste Zeit draußen verbringen. ;-)"
     },
+    "entry": "Was soll man zum Freizeitheim Wartenberg noch sagen? 2012, 2014, 2016, 2018 und 2021 haben dort schon bis zu 60 Elfen Platz gefunden und waren dabei ungestört, da das Freizeitheim von uns allein genutzt wird – es ist also exklusiv gebucht.",
+    "header": "Unterkunft",
     "surroundings": {
       "header": "Umgebung",
       "text": "Für die stetig wachsende Kinderschar bietet das Freizeitheim Außenanlagen und ein großes Hüpfkissen an. Außerdem bietet das Außengelände eine überdachte Feuerstelle, für lauschige Abende und einen das Gelände umgebenden, eigens für Larper gepflanzten Wald :P."
     }
+  },
+  "start": {
+    "entry": "Auch für das Jahr 2023 erschallt ein Ruf durch Wald, Wüste, über Steppen und Schneefelder",
+    "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2023 wünscht eure Orga",
+    "header": "Willkommen zur 24. europäischen ElfQuest-Convention",
+    "nav": "Start",
+    "slogan": "One tribe ★ one holt.",
+    "subheader": "vom 26. - 29. Mai 2023 (Pfingsten) im Freizeitheim Wartenberg, Witten",
+    "welcome": "Entsprechend diesem Motto seid Ihr alle eingeladen in den Elfenhain zu kommen, zu lachen, zu tanzen und zu singen, Spiele zu spielen, herumzualbern, wettzueifern oder kreativ zu malen und schreiben. Als ein Stamm, neu und alt, alle sind willkommen."
   }
 }

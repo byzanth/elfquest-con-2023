@@ -8,6 +8,7 @@ import { NavigationComponent } from '../navigation/navigation.component';
 import { StartComponent } from '../start/start.component';
 
 import { HomepageComponent } from './homepage.component';
+import { LinksComponent } from '../links/links.component';
 
 describe('HomepageComponent', () => {
   let component: HomepageComponent;
@@ -32,6 +33,7 @@ describe('HomepageComponent', () => {
         CreditsComponent,
         FaqComponent,
         HomepageComponent,
+        LinksComponent,
         LocationComponent,
         NavigationComponent,
         StartComponent,
